@@ -48,7 +48,7 @@
     <h5 class="titulosprodutos">Hot Pepper Gourmet</h5>
     <img  class="imagesprodutos" src="./images/<?php echo $produtoshome["hotpeppergourmet"]["img"]; ?>" width="240px" height="250px">
     <p class="descricaoprodutos"><?php echo $produtoshome["hotpeppergourmet"]["descricao1"] ?></p>
-    <a href="./index.php?p=hotpeppergourmet"><button class="button-saiba">Saiba mais...</button></a>
+    <a href="./index.php?p=paginaespecialhot"><button class="button-saiba">Saiba mais...</button></a>
   </div>
   <div class="produtos">
     <h5 class="titulosprodutos">Limão</h5>

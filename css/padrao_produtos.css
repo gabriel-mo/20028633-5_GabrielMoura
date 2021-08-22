@@ -1,0 +1,37 @@
+div#produtosgeral {
+	background-color: white;
+	padding: 30px;
+}
+
+.conteudoprodutogeral {
+	float: left;
+	position: relative;
+	width: 930px;
+	height: 500	px;
+	margin-left: 10px;
+}
+
+#CupcakeHotPepperGourmet {
+	margin-bottom: 20px;
+}
+
+.paragrafo-favorito {
+	text-align: justify;
+	line-height: 2;
+	margin-top: 10px;
+	padding-right: 30px;
+}
+
+#conheca {
+	margin-top: 15px;
+
+}
+
+.conteudoprodutoesp1 {
+	float: left;
+	position: relative;
+	width: 500px;
+	height: 500	px;
+	margin-left: 10px;
+}
+

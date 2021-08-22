@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" type="text/css" href="./css/menu.css">
+  <link rel="stylesheet" type="text/css" href="./css/paginaespecialhot.css">
+  <link rel="stylesheet" type="text/css" href="./css/padrao_produtos.css">
   <link rel="stylesheet" type="text/css" href="./css/localizacao.css">
   <link rel="stylesheet" type="text/css" href="./css/contato.css">
   <link rel="stylesheet" type="text/css" href="./css/home.css">
